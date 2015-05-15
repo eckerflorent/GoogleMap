@@ -13,7 +13,8 @@ Ce que j'ai mis en place:<br>
 
 --récupération position utilisateur via un cookie (actualiseMap.js)<br>
 
---personnalisation des icones épingles (bleu pour les concerts et draggable,rouge pour l'utilisateur .(actualiseMap.js, map.js)<br>
+--personnalisation des icones épingles (bleu pour les concerts et draggable,<br>
+rouge pour l'utilisateur .(actualiseMap.js, map.js)<br>
 
 --création d'un rayon d'action autour de l'utilisateur personnalisé, selon la distance de recherche.<br>
 (actualiseMap.js, map.js)<br>
