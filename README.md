@@ -41,7 +41,7 @@ Arborescence<br>
 
 page principale :<br>
 
--INDEX<br>
+-index.php<br>
 
 Onglet "Tous les concerts" :<br>
 
