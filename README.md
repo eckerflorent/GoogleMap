@@ -1,2 +1,0 @@
-# googleMap
-test
