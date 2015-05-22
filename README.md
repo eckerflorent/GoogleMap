@@ -76,28 +76,3 @@ Page de la gestion des onglets Jquery UI:<br>
 
 BDD sql:<br>
 -googleMap.sql<br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
