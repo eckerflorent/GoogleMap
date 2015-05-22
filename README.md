@@ -1,3 +1,5 @@
+Vous pouvez retrouver ce projet sur www.eckerflorent.fr/googleMap
+
 Ce que j'ai mis en place:<br>
 
 -site one page<br>
