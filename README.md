@@ -6,19 +6,24 @@ Ce que j'ai mis en place:<br>
 
 -création d'un champ auto complète jquery en ajax et retour au format Json.(onglet concert)<br>
 
---gestion de google maps API V3 (https://developers.google.com/maps/documentation/javascript/tutorial)<br>
+--gestion de google maps API V3 <br>
+(https://developers.google.com/maps/documentation/javascript/tutorial)<br>
 
 --récupération position utilisateur via géolocalisation (map.js)<br>
 
 --récupération position utilisateur via un cookie (actualiseMap.js)<br>
 
---personnalisation des icones épingles (bleu pour les concerts et draggable,rouge pour l'utilisateur .(actualiseMap.js, map.js)<br>
+--personnalisation des icones épingles (bleu pour les concerts et draggable,rouge pour l'utilisateur .<br>
+(actualiseMap.js, map.js)
 
---création d'un rayon d'action autour de l'utilisateur personnalisé, selon la distance de recherche.(actualiseMap.js, map.js)<br>
+--création d'un rayon d'action autour de l'utilisateur personnalisé, selon la distance de recherche.<br>
+(actualiseMap.js, map.js)
 
---Gestion des cas s'il y a concert ou non ou plus loin que le rayon d'action choisis.(actualiseMap.js, map.js)<br>
+--Gestion des cas s'il y a concert ou non ou plus loin que le rayon d'action choisis.<br>
+(actualiseMap.js, map.js)
 
--- évènement "click" sur les icones des concerts pour afficher la description du concert choisis.(actualiseMap.js, map.js)<br>
+-- évènement "click" sur les icones des concerts pour afficher la description du concert choisis.<br>
+(actualiseMap.js, map.js)
 
 
 Ce que je n'ai pas (vraiment) pris en charge:<br>
